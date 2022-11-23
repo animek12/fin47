@@ -13,7 +13,7 @@ global.APIKeys = {
 }
 
 
-global.ownername = 'THREE BOT'
+global.ownername = 'XIENT BOT'
 global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
